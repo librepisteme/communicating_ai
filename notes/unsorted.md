@@ -32,8 +32,6 @@ ___________________
 
 1. Preperation
 _______________
-
----
  
  * Choice of langauges and frameworks
  * Definition of general archticterue, both in software and devops
@@ -44,15 +42,11 @@ _______________
 2. The actual work
 __________________
 
----
-
 Not much to say here, obviously work test driven and make sure to document every part of the code.
 
 ---
 
 3. Post-Analysis
 ________________
-
----
 
 Also pretty self-explanatory and highly dependant on steps 0. - 3. Hopefully there's a lot of work left in this part regarding the publishing of a paper and writing the various Fields medalist acceptance speeches.
