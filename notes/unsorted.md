@@ -1,4 +1,4 @@
-###Communicating AI
+### Communicating AI
 
 *(working title obviously, I'm not that jejune)*
 
@@ -9,7 +9,7 @@ absolutely necessary, and if so, if they are implemented in a way that is anthro
 
 The purpose of this experiment is to examine the possible ways that intelligences can comminicate, and any influence that stems from a human-centric way of thinking will taint the results.
 
-##What is needed: 
+#### What is needed: 
 
 0 Preliminary work
 ___________________
